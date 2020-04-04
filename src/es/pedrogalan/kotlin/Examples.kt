@@ -2,9 +2,9 @@ package es.pedrogalan.kotlin
 
 fun main(args: Array<String>) {
     val message = args[0]
-    println(greetings(message))
+    println(message.greeting())
 }
 
-private fun greetings(message: String): String {
-    return "Hello $message"
+private fun String.greeting(): String {
+    return "Hello $this"
 }
