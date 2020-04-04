@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb42344f-bb35-4feb-a5aa-e2c86e54740c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1a4ikynWfBv8hZ8ufquN1aVgxJz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="es.pedrogalan.kotlin.ExamplesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-hello-world" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="world" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="es.pedrogalan.kotlin.ExamplesKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.es.pedrogalan.kotlin.ExamplesKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb42344f-bb35-4feb-a5aa-e2c86e54740c" name="Default Changelist" comment="" />
+      <created>1586001413342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586001413342</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586001760861">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1586001760861" />
+    <state width="1440" height="237" key="GridCell.Tab.0.bottom" timestamp="1586001764642">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1440" height="237" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586001764642" />
+    <state width="1440" height="237" key="GridCell.Tab.0.center" timestamp="1586001764641">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1440" height="237" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586001764641" />
+    <state width="1440" height="237" key="GridCell.Tab.0.left" timestamp="1586001764641">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1440" height="237" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586001764641" />
+    <state width="1440" height="237" key="GridCell.Tab.0.right" timestamp="1586001764641">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1440" height="237" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586001764641" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1586001643453">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1586001643453" />
+  </component>
+</project>
